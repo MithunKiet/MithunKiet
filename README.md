@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mithun Kumar</h1>
+<h3 align="center">Full-Stack .NET Engineer | ASP.NET Core | Angular | C# | SQL Server</h3>
 
-<!--
-**MithunKiet/MithunKiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I design and develop scalable enterprise-grade web applications 
+and RESTful APIs using ASP.NET Core & Angular.
+</p>
 
-Here are some ideas to get you started:
+- 💼 Full-Stack Developer with expertise in C#, .NET Core, Angular & SQL Server  
+- 🧩 Strong experience in Clean Architecture & Microservices-based architecture  
+- 🔗 Skilled in REST API Development & System Integrations  
+- ⚡ Focused on performance optimization & maintainable code  
+- 🚀 Currently open to Full-Stack .NET Developer opportunities  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: **mithunkiet@gmail.com**
