@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mithun Kumar</h1>
-<h3 align="center">Full-Stack .NET Engineer | ASP.NET Core | Angular | C# | SQL Server</h3>
+<h3 align="center">Full-Stack Engineer | ASP.NET Core | Angular | Python FastAPI | C# | SQL Server</h3>
 
 <p align="center">
-I design and develop scalable enterprise-grade web applications 
-and RESTful APIs using ASP.NET Core & Angular.
+Full-Stack Developer experienced in building scalable enterprise web applications 
+and RESTful APIs using ASP.NET Core, Angular & Python FastAPI.
 </p>
 
 ---
 
 ### 🚀 About Me
-- 💼 Full-Stack Developer with expertise in C#, .NET Core, Angular & SQL Server  
-- 🧩 Strong experience in Clean Architecture & Microservices Architecture  
-- 🔗 Skilled in REST API Development & Enterprise System Integrations  
-- ⚡ Focused on performance optimization & maintainable code  
-- 🚀 Currently open to Full-Stack .NET Developer opportunities  
+- 💼 Full-Stack Developer with expertise in ASP.NET Core, Angular & Python FastAPI  
+- 🧩 Experience in Clean Architecture & Microservices Architecture  
+- 🔗 Skilled in REST API Development using .NET Core & FastAPI  
+- ⚡ Focused on performance optimization & maintainable backend systems  
+- 🚀 Currently open to Full-Stack Backend Developer opportunities  
 
 📫 Email: **mithunkiet@gmail.com**
 
@@ -21,6 +21,7 @@ and RESTful APIs using ASP.NET Core & Angular.
 
 ### 💼 Professional Expertise
 ✔ ASP.NET Core Web API Development  
+✔ Python FastAPI Backend Development  
 ✔ Angular Enterprise Applications  
 ✔ Clean Architecture Implementation  
 ✔ Microservices-based Systems  
@@ -39,6 +40,8 @@ and RESTful APIs using ASP.NET Core & Angular.
 ![EF](https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge&logo=.net&logoColor=white)
 ![WebAPI](https://img.shields.io/badge/Web_API-02569B?style=for-the-badge&logo=.net&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
@@ -52,11 +55,16 @@ and RESTful APIs using ASP.NET Core & Angular.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MithunKiet&theme=radical" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunKiet&layout=compact&theme=radical" />
+</p>
+
 ---
 
 ### 📁 Featured Projects
 🔹 ASP.NET Core Web API Projects  
 🔹 Angular Enterprise Applications  
+🔹 Python FastAPI Backend Projects  
 🔹 SQL Server Based Systems  
 🔹 Clean Architecture Implementation  
 🔹 Microservices-based Solutions  
