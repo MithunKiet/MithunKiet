@@ -10,12 +10,23 @@ and RESTful APIs using ASP.NET Core & Angular.
 
 ### 🚀 About Me
 - 💼 Full-Stack Developer with expertise in C#, .NET Core, Angular & SQL Server  
-- 🧩 Strong experience in Clean Architecture & Microservices-based systems  
-- 🔗 Skilled in REST API Development & System Integrations  
+- 🧩 Strong experience in Clean Architecture & Microservices Architecture  
+- 🔗 Skilled in REST API Development & Enterprise System Integrations  
 - ⚡ Focused on performance optimization & maintainable code  
 - 🚀 Currently open to Full-Stack .NET Developer opportunities  
 
-📫 Reach me at: **mithunkiet@gmail.com**
+📫 Email: **mithunkiet@gmail.com**
+
+---
+
+### 💼 Professional Expertise
+✔ ASP.NET Core Web API Development  
+✔ Angular Enterprise Applications  
+✔ Clean Architecture Implementation  
+✔ Microservices-based Systems  
+✔ SQL Server Database Design  
+✔ REST API Integration  
+✔ Enterprise Application Development  
 
 ---
 
@@ -34,11 +45,11 @@ and RESTful APIs using ASP.NET Core & Angular.
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MithunKiet&show_icons=true&theme=radical" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MithunKiet&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MithunKiet&theme=radical" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MithunKiet&theme=radical" />
 </p>
 
 ---
@@ -53,6 +64,11 @@ and RESTful APIs using ASP.NET Core & Angular.
 ---
 
 ### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mithun%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mithunkiet/" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-Mithun%20Kumar-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
 
 ---
