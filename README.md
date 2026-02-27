@@ -47,14 +47,15 @@ and RESTful APIs using ASP.NET Core, Angular & Python FastAPI.
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MithunKiet&show_icons=true&theme=radical&cache_seconds=1800&hide_border=true" />
+<img src="https://github-readme-stats-bb2n4ukji-mithun-kumar-s-projects.vercel.app/api?username=MithunKiet&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MithunKiet&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats-bb2n4ukji-mithun-kumar-s-projects.vercel.app/api/top-langs/?username=MithunKiet&layout=compact&theme=radical&hide_border=true" />
 </p>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunKiet&layout=compact&theme=radical&cache_seconds=1800&hide_border=true" />
 </p>
