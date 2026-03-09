@@ -6,14 +6,20 @@ namespace SecureApiFoundation.Infrastructure.Services;
 
 public class PasswordService : IPasswordService
 {
-    private readonly IPasswordHasher<User> _passwordHasher = new PasswordHasher<User>();
+    private readonly IPasswordHasher<User> _passwordHasher;
+    private static readonly User _dummyUser = new();
+
+    public PasswordService(IPasswordHasher<User> passwordHasher)
+    {
+        _passwordHasher = passwordHasher;
+    }
 
     public string HashPassword(string password) =>
-        _passwordHasher.HashPassword(null!, password);
+        _passwordHasher.HashPassword(_dummyUser, password);
 
     public bool VerifyPassword(string hashedPassword, string providedPassword)
     {
-        var result = _passwordHasher.VerifyHashedPassword(null!, hashedPassword, providedPassword);
+        var result = _passwordHasher.VerifyHashedPassword(_dummyUser, hashedPassword, providedPassword);
         return result != PasswordVerificationResult.Failed;
     }
 }

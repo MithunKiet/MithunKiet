@@ -1,7 +1,9 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using SecureApiFoundation.Application.Interfaces;
+using SecureApiFoundation.Domain.Entities;
 using SecureApiFoundation.Infrastructure.Database;
 using SecureApiFoundation.Infrastructure.Repositories;
 using SecureApiFoundation.Infrastructure.Services;
@@ -29,6 +31,7 @@ public static class DependencyInjection
 
         // Services
         services.AddScoped<ITokenService, TokenService>();
+        services.AddScoped<IPasswordHasher<User>, PasswordHasher<User>>();
         services.AddScoped<IPasswordService, PasswordService>();
 
         return services;
