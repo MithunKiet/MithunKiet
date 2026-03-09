@@ -1,0 +1,79 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+
+## Build outputs
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+!**/packages/repositories.config
+!**/packages/*.targets
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Test Results
+TestResults/
+[Tt]est[Rr]esult*/
+
+## User-specific files
+*.rsuser
+*.user
+*.userosscache
+*.sln.docstates
+
+## Visual Studio
+.vs/
+*.aps
+*.ncb
+*.opendb
+*.opt
+*.plg
+*.vcxproj.filters
+*.vcxproj.user
+
+## Rider
+.idea/
+
+## Rider cache
+*.DotSettings.user
+
+## Environment files (NEVER commit secrets!)
+.env
+.env.*
+!.env.example
+
+## macOS
+.DS_Store
+
+## Windows
+Thumbs.db
+ehthumbs.db
+
+## Docker
+.dockerignore
+
+## Logs
+logs/
+*.log
+
+## Entity Framework migrations output (keep migrations source)
+## but not the compiled output
